@@ -39,3 +39,10 @@ Autonomous cars can play a crucial role in optimizing traffic management by leve
 # Output Images
 ![WhatsApp Image 2023-06-20 at 10 02 08 PM](https://github.com/ManojChinthalapudi/Self_controlled_car/assets/137071534/ed17532e-9bbe-43e2-aebf-58734b4fc42b)
 
+# Demo Videos
+
+https://github.com/ManojChinthalapudi/Self_controlled_car/assets/137071534/b178da0d-34a9-42a1-846d-3e9c2c88cd51
+
+https://github.com/ManojChinthalapudi/Self_controlled_car/assets/137071534/f0d181fe-6132-4f8d-a81b-27e70c1caa69
+
+
