@@ -31,3 +31,8 @@ Autonomous cars can play a crucial role in optimizing traffic management by leve
 18. Arduino IDE
 19. Raspbian OS
 20. MIT app Inventor
+![car](https://github.com/ManojChinthalapudi/Self_controlled_car/assets/137071534/c3589001-41f7-469f-864f-def7ef334c8e)
+# MIT Interface layout
+![mit](https://github.com/ManojChinthalapudi/Self_controlled_car/assets/137071534/9169b4b6-0cdb-4b5a-a144-eaf0e691fed7)
+# Signs
+![signs](https://github.com/ManojChinthalapudi/Self_controlled_car/assets/137071534/42a0133f-8b14-44a9-9cfb-a7474dd459e7)
