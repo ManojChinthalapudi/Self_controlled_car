@@ -1,6 +1,5 @@
 # Traffic Sign Detection
-The implementation of autonomous cars in India can address several critical needs and challenges in the country’s transportation system.
-Autonomous cars can play a crucial role in optimizing traffic management by leveraging real-time data, predictive analytics, and intelligent routing algorithms. Through communication with other autonomous vehicles and traffic infrastructure, these cars can actively avoid congestion, select the most efficient routes, and coordinate their movements.
+Trained and classified Traffic Signs using Convolutional neural networks.This will be done using  OpenCV in real-time using a simple webcam. CNN's have been gaining popularity in the past couple of years due to their ability to generalize and classify the data with high accuracy.We will train traffic signs with over 35000 images of 43 different classes with the help of TensorFlow and Keras.
 # Signs
 ![signs](https://github.com/ManojChinthalapudi/Self_controlled_car/assets/137071534/42a0133f-8b14-44a9-9cfb-a7474dd459e7)
 # Output Images
